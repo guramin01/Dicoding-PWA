@@ -1,0 +1,48 @@
+.card:hover{
+    box-shadow: 0 4px 8px 0 rgba(168, 13, 74, 1);
+}
+
+.bold{
+  font-weight: bold;
+
+}
+.responsive-font {
+  font-size: 2vw;
+}
+.cursor{
+  cursor: pointer;
+}
+@media only screen and (max-width: 390px) {
+
+   .small { 
+      height: 243px!important; 
+   }
+
+}
+.brand-logo{
+   color: black;
+}
+.navbar{
+   position: sticky;
+   top: 0;
+   background-image: linear-gradient(to bottom right, #96daff, #ffbad5);
+   z-index: 9999;
+
+}
+.bodynya {
+  max-width: 1000px; margin: auto;
+  background-color: #f1f2e9;
+
+  }
+.keranjang{
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+@media only screen and (max-width: 390px) {
+
+   .keranjang { 
+    margin-top: 50px;
+    margin-bottom: 50px;
+   }
+
+}

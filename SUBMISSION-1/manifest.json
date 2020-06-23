@@ -1,0 +1,31 @@
+{
+    "name": "RESTO-ID",
+    "short_name": "RESTO-ID",
+    "description": "Aplikasi PWA SUBMISSION-1 RESTO-ID IRFAN",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffcec4",
+    "theme_color": "#ffcec4",
+    "icons": [
+        {
+            "src": "/icon/rest-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon/rest-384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon/rest-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon/rest-96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ]
+}
